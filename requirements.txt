@@ -1,0 +1,15 @@
+pandas
+numpy
+beautifulsoup4
+requests
+requests-cache
+lxml
+scikit-learn
+lightgbm
+xgboost
+pyyaml
+tqdm
+fuzzywuzzy
+python-Levenshtein
+matplotlib
+seaborn
